@@ -1,0 +1,156 @@
+
+#top{
+    color:#f8eeee;
+    width:1300px;
+    height:300px;
+    background:url(img/fav3hedder.png);
+    margin: auto;
+}
+
+#middle1{
+    width:1300px;
+    height:300px;
+    background:url(img/sonotahedder.png);
+    margin: auto;
+}
+
+#middle2{
+    color: #f8eeee;
+    width: 1300px;
+    height: 400px;
+    background: #3689bd;
+    text-align: center;
+    margin: auto;
+} 
+
+#left2{
+    width:650px;
+    height:400px;
+    background-color:#3689bd;
+    float: left;
+    margin: auto;
+}
+
+#right2{
+    color: #f8eeee;
+    width: 650px;
+    height: 400px;
+    background: #3689bd;
+    float: right;
+    margin: auto;
+}
+
+#middle3{
+    color: #f8eeee;
+    width: 1300px;
+    height: 400px;
+    background: #3689bd;
+    text-align: center;
+    margin: auto;
+}
+
+#left3{
+    width:650px;
+    height:400px;
+    background-color:#3689bd;
+    float: left;
+    padding: 0%;
+    margin: auto;
+}
+
+#right3{
+    color: #f8eeee;
+    width: 650px;
+    height: 400px;
+    background: #3689bd;
+    float: right;
+    margin:0 auto;
+}
+
+
+
+#middle4{
+    color: #f8eeee;
+    width: 1300px;
+    height: 400px;
+    background: #3689bd;
+    margin: auto;
+}
+
+#left4{
+    width:650px;
+    height:400px;
+    background-color:#3689bd;
+    float: left;
+    text-align: center;
+}
+
+#right4{
+    width: 650px;
+    height: 400px;
+    background-color: #3689bd;
+    float: right;
+    text-align: center;
+}
+
+#middle5{
+    color: #f8eeee;
+    width: 1300px;
+    height: 400px;
+    background: #3689bd;
+    margin: auto;
+}
+
+#left5{
+    width:650px;
+    height:400px;
+    background-color:#3689bd;
+    float: left;
+    text-align: center;
+    margin: auto;
+}
+
+#right5{
+    width: 650px;
+    height: 400px;
+    background-color: #3689bd;
+    float: right;
+    text-align: center;
+    margin: auto;
+}
+
+#middle6{
+    color: #f8eeee;
+    width: 1300px;
+    height: 400px;
+    background: #3689bd;
+    margin: auto;
+}
+
+#left6{
+    width:650px;
+    height:400px;
+    background-color:#3689bd;
+    float: left;
+    text-align: center;
+    margin: auto;
+}
+
+#right6{
+    width: 650px;
+    height: 400px;
+    background-color: #3689bd;
+    float: right;
+    text-align: center;
+    margin: auto;
+}
+
+#bottom{
+    color: #fffded;
+    width:1300px;
+    height:300px;
+    background:url(img/sonotahedder.png);
+    margin: auto;
+    clear: both;
+    text-align: center;
+}

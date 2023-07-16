@@ -1,0 +1,118 @@
+#wrap{
+    background-color: #33295d;
+    background-image: url(img/backyakei.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+body{
+    margin: 0px; 
+    background-color:rgb(55,137,190);
+}
+
+#menu{
+    width:1300px;
+    margin:0px;
+    padding:0px;
+    list-style-type:none;
+    margin: auto;
+}
+
+#menu li{
+    width:260px;
+    float: left;
+    text-align:center;
+    margin: auto;
+}
+
+#menu li.menu01 a{
+    width:260px;
+    height:100px;
+    color:#5deaf4;
+    font-size:180%;
+    background:url(img/menua1.png);
+    text-decoration: none;
+    display: block;
+    text-indent :-999999px;
+    margin: auto;
+}
+
+#menu li.menu01 a:hover{
+    color: rgb(35, 40, 44);
+    background:url(img/menua1hov.png);
+
+
+}
+
+#menu li.menu02 a{
+    width:260px;
+    height:100px;
+    color:#5deaf4;
+    font-size:180%;
+    background:url(img/menua02.png);
+    text-decoration: none;
+    display: block;
+    text-indent :-999999px;
+    margin: auto;
+}
+
+#menu li.menu02 a:hover{
+    color: rgb(35, 40, 44);
+    background:url(img/menua02hov.png);
+
+}
+
+#menu li.menu03 a{
+    width:260px;
+    height:100px;
+    color:#5deaf4;
+    font-size:180%;
+    background:url(img/menua03.png);
+    text-decoration: none;
+    display: block;
+    text-indent :-999999px;
+    margin: auto;
+}
+
+#menu li.menu03 a:hover{
+    color: rgb(35, 40, 44);
+    background:url(img/menua03hov.png);
+
+}
+
+#menu li.menu04 a{
+    width:260px;
+    height:100px;
+    color:#5deaf4;
+    font-size:180%;
+    background:url(img/menua04.png);
+    text-decoration: none;
+    display: block;
+    text-indent :-999999px;
+    margin: auto;
+}
+
+#menu li.menu04 a:hover{
+    color: rgb(35, 40, 44);
+    background:url(img/menua04hov.png);
+
+}
+
+#menu li.menu05 a{
+    width:260px;
+    height:100px;
+    color:#5deaf4;
+    font-size:180%;
+    background:url(img/menua05.png);
+    text-decoration: none;
+    display: block;
+    text-indent :-999999px;
+    margin: auto;
+}
+
+#menu li.menu05 a:hover{
+    color: rgb(35, 40, 44);
+    background:url(img/menua05hov.png);
+
+}

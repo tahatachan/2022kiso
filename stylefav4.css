@@ -1,0 +1,35 @@
+#top{
+    color:#f8eeee;
+    width:1300px;
+    height:300px;
+    background:url(img/hedder.png);
+    margin: auto;
+}
+
+#middle{
+    color:#f8eeee;
+    width:1300px;
+    height:300px;
+    background:#3689bd;
+    margin: auto;
+    text-align: center;
+}
+
+#middle2{
+    color: #f8eeee;
+    width: 1300px;
+    height: 300px;
+    background: #fffded;
+    opacity:0 ;
+    clear:both;
+    margin: auto;
+}
+
+#bottom{
+    color: #fffded;
+    width:1300px;
+    height:300px;
+    background:url(img/yakeifoot.png);
+    margin: auto;
+    text-align: center;
+}

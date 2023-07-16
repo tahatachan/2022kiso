@@ -1,0 +1,51 @@
+#top{
+    color:#f8eeee;
+    width:1300px;
+    height:300px;
+    background:url(img/hedder.png);
+    margin: auto;
+}
+
+#middle{
+    color:#f8eeee;
+    width:1300px;
+    height:100px;
+    background:#3689bd;
+    margin: auto;
+}
+
+#left{
+    color: #fffded;
+    width:650px;
+    height:400px;
+    background: url(img/prof.png);
+    float:left;
+    margin: auto;
+}
+
+#right{
+    color:rgb(255, 253, 254);
+    width:650px;
+    height:400px;
+    background:#e0437d;
+    float:right;
+    margin: auto;
+}
+
+#middle2{
+    color: #f8eeee;
+    width: 1300px;
+    height: 300px;
+    background: #fffded;
+    opacity:0 ;
+    clear:both;
+    margin: auto;
+}
+
+#bottom{
+    color: #fffded;
+    width:1300px;
+    height:300px;
+    background:url(img/yakeifoot.png);
+    margin: auto;
+}
